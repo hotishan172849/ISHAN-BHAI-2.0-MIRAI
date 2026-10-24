@@ -6,7 +6,7 @@ module.exports.config = {
   aliases: ["ownerinfo", "owners"],
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "ISHAN BHAI",
   description: "Show Owner Info with random photo",
   commandCategory: "Information",
   usages: "owner",
@@ -29,10 +29,10 @@ module.exports.run = async function ({ api, event }) {
 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 
 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-fb.com/61592308204822
+61592308204822
 
 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:
-m.me/61592308204822
+61592308204822
 
 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
 575612943
