@@ -23,22 +23,21 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│👤 𝐍𝐚𝐦𝐞 : TANJIM REHMAN 
+│👤 𝐍𝐚𝐦𝐞 : ABDULLAH AL MAHIN ISHAN
 │🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
 │❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
-│🎂 𝐀𝐠𝐞 : 21+
+│🎂 𝐀𝐠𝐞 : 22+
 │🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam
 │🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC 
-│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : DHAKA 
+│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : CHITTAGONG 
 └───────────────⭓
 
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│https://fb.com/61593059462977
-│💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
-│wsp nai chalai na single tay
+│https://www.facebook.com/share/1E1EZvHi5k/
+│💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: 575612943
 └───────────────⭓
 
 ┌───────────────⭓
