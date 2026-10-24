@@ -14,7 +14,7 @@
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
   "BOTNAME": "আমার বস ঈশান",
-  "PREFIX": "√",
+  "PREFIX": "/",
   "usePrefix": false,
   "reactUnsend": [
     "😡",
