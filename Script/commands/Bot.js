@@ -254,7 +254,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
  const senderName = await Users.getNameUser(event.senderID);
  const senderID = event.senderID;
 
- const simsim = await getMainAPI();
+ const simsim = await getMainAPI(Ishan);" ঈশান বস ঘুমাচ্ছে😴 ", " ঈশান এখন চিপায় ব‍্যস্ত "
 
 const greetings = [
         "বট না ডেকে বস ঈশানের প্রেমে পড়ো💋😽",
@@ -357,9 +357,9 @@ const greetings = [
         " সুন্দরী মেয়েরাও হাগে?🥴😑😏",
         "-🫵তোমারে প্রচুর ভাল্লাগে, একটু খেতে দিবা🥱🐸🥵",
         "-আজ থেকে আর কাউকে পাত্তা দিমু না🤰"
-      ];
-
-
+      ]; " সাতকানিয়ার গরু চোর ইকবাল ", " মিমের জামাই "
+        " জাহেদ পটিয়ার পল ", " জাহদ ভাই পরটা বানা হলে নক দিও "
+        " হালফান ভালো  হয়ে যাও না হলে মেরে ইকু কমিয়ে দিব "
  if (
  raw === "babu" || raw === "bot" || raw === "bby" ||
  raw === "jan" || raw === "xan" || raw === "জান" ||
