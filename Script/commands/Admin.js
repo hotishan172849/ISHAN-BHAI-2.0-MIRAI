@@ -8,7 +8,7 @@ module.exports.config = {
  aliases: ["admininfo", "infoadmin"],
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "ISHAN BHAI",
  description: "Show Owner Info",
  commandCategory: "info",
  usages: "admin",
@@ -36,7 +36,7 @@ module.exports.run = async function({ api, event }) {
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│https://www.facebook.com/share/1E1EZvHi5k/
+│61592308204822
 │💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: 575612943
 └───────────────⭓
 
