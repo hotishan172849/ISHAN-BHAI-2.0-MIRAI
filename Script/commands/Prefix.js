@@ -3,7 +3,7 @@ module.exports.config = {
     aliases: ["pref", "myprefix"],
     version: "1.4.0",
     hasPermssion: 0,
-    credits: "SHAHADAT SAHU",
+    credits: "ISHAN BHAI",
     description: "Display bot prefix and basic information (no prefix needed)",
     commandCategory: "Information",
     usages: "prefix",
@@ -56,7 +56,7 @@ module.exports.run = async function ({ api, event, Threads }) {
 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲: ${botName}
 ➤ 𝗕𝗼𝘅 𝗣𝗿𝗲𝗳𝗶𝘅: ${prefix}
 ➤ 𝗕𝗼𝘅 𝗡𝗮𝗺𝗲: ${groupName}
-➤ 𝗔𝗱𝗺𝗶𝗻: 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
+➤ 𝗔𝗱𝗺𝗶𝗻: ABDULLAH AL MAHIN ISHAN
 
 💫 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 ${botName} ❤️`;
 
