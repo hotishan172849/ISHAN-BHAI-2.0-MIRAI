@@ -126,7 +126,7 @@ function getCommandInfo(command, prefix, botName) {
 
 ⚙️ 𝗣𝗿𝗲𝗳𝗶𝘅: ${prefix}
 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲: ${botName}
-🌸 𝗢𝘄𝗻𝗲𝗿:TANJIM REHMAN`;
+🌸 𝗢𝘄𝗻𝗲𝗿:ABDULLAH AL MAHIN ISHAN`;
 }
 
 module.exports.run = function ({
@@ -232,7 +232,7 @@ ${msg}
 ┃ 🤖 Bot Name:
 ┃ ${botName}
 ┃ 🔰 Owner:
-┃ TANJIM REHMAN
+┃ ABDULLAH AL MAHIN ISHAN
 ╰━━━━━━━━━━━━━━━━╯`;
 
   sendMessage(
