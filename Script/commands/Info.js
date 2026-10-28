@@ -60,7 +60,7 @@ module.exports.run = async function ({
 
   const msg = `╭⭓ ⪩ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 ⪨
 │
-├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${botName}
+├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${botName}"Ishu Jahan"
 ├─ ☢️ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${config.PREFIX}
 ├─ ♻️ 𝗣𝗿𝗲𝗳𝗶𝘅 𝗕𝗼𝘅 : ${prefix}
 ├─ 🔶 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 : ${commands.size}
@@ -86,7 +86,7 @@ module.exports.run = async function ({
 ╰───────⭓
 
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
- 😍${botName}😘`;
+ 😍${botName}😘`"Ishu jahan";
 
   const imgLinks = [
     "https://imgur.com/a/4yKsTX2.jpeg",
