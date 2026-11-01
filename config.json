@@ -13,7 +13,7 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "আমার বস ঈশান",
+  "BOTNAME": "FaRu",
   "PREFIX": "/",
   "usePrefix": false,
   "reactUnsend": [
@@ -24,7 +24,7 @@
   ],
   "ADMINBOT": [
     "61592308204822",
-    "",
+    "61593586228700",
     ""
   ],
   "DEVELOPER": [
