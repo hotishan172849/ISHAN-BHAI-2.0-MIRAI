@@ -23,7 +23,9 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│👤 𝐍𝐚𝐦𝐞 : ABDULLAH AL MAHIN ISHAN
+│👤 𝐍𝐚𝐦𝐞 : 𝐈𝐒𝆠꯭፝֟𝐇𝐀𝐍')🎀🩷🌷
+
+
 │🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
 │❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
 │🎂 𝐀𝐠𝐞 : 22+
@@ -37,7 +39,7 @@ module.exports.run = async function({ api, event }) {
 ├───────────────
 │📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
 │61592308204822
-│💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: 575612943
+│💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:+9660575612943
 └───────────────⭓
 
 ┌───────────────⭓
@@ -49,7 +51,7 @@ module.exports.run = async function({ api, event }) {
  attachment: fs.createReadStream(__dirname + "/cache/owner.jpg")
  }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/owner.jpg"));
 
- return request("https://i.imgur.com/cwd64Av.jpeg")
+ return request("https://i.imgur.com/L68QY1h.jpeg")
  .pipe(fs.createWriteStream(__dirname + '/cache/owner.jpg'))
  .on('close', () => callback());
 };
