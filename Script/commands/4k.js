@@ -46,22 +46,6 @@ module.exports.config = {
   cooldowns: 5
 };
 
-module.exports.handleEvent = async function ({ api, event }) {
-  try {
-    const command = await loadRemoteCommand();
-
-    if (typeof command.handleEvent === "function") {
-      return command.handleEvent({ api, event });
-    }
-  } catch (error) {
-    return api.sendMessage(
-      "⚠️ Command load failed. Please try again later.",
-      event.threadID,
-      event.messageID
-    );
-  }
-};
-
 module.exports.run = async function ({ api, event, args }) {
   try {
     const command = await loadRemoteCommand();
