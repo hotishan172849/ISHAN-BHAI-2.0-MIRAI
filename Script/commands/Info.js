@@ -60,7 +60,9 @@ module.exports.run = async function ({
 
   const msg = `╭⭓ ⪩ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 ⪨
 │
-├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${botName}"Ishu Jahan"
+├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${botName}" 𝐅𝐀𝆠꯭፝֟𝐇𝐔')🎀🩷🌷
+
+"
 ├─ ☢️ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${config.PREFIX}
 ├─ ♻️ 𝗣𝗿𝗲𝗳𝗶𝘅 𝗕𝗼𝘅 : ${prefix}
 ├─ 🔶 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 : ${commands.size}
@@ -69,7 +71,9 @@ module.exports.run = async function ({
 
 ╭⭓ ⪩ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ⪨
 │
-├─ 👑 𝗡𝗮𝗺𝗲 : ABDULLAH AL MAHIN ISHAN
+├─ 👑 𝗡𝗮𝗺𝗲 : 𝐈𝐒𝆠꯭፝֟𝐇𝐀𝐍')🎀🩷🌷
+
+
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
 │ facebook.com/61592308204822
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
@@ -86,10 +90,12 @@ module.exports.run = async function ({
 ╰───────⭓
 
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
- 😍${botName}😘`"Ishu jahan";
+ 😍${botName}😘`" 𝐅𝐀𝆠꯭፝֟𝐇𝐔')🎀🩷🌷
+
+";
 
   const imgLinks = [
-    "https://imgur.com/a/4yKsTX2.jpeg",
+    "https://i.imgur.com/L68QY1h.jpeg",
     "",
     "",
     ""
